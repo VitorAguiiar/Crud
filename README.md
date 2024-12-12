@@ -1,7 +1,7 @@
 
 # CRUD com Spring Boot e MySQL
 
-Este é um exemplo de aplicação CRUD (Create, Read, Update, Delete) utilizando **Spring Boot** com **MySQL**. O projeto permite a gestão de objetos do tipo **Pato** em um banco de dados MySQL.
+Este é um exemplo de aplicação CRUD utilizando **Spring Boot** com **MySQL**. O projeto permite a gestão de objetos do tipo **Pato** em um banco de dados MySQL.
 
 ## Estrutura do Projeto
 
